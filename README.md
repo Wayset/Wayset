@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Perl
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C/C++
+- 📝 I’m coding with Python,C,C++,Java,HTML,CSS!
+- 🔌 My Site - https://wayset.giyhub.io
