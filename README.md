@@ -10,7 +10,7 @@ On the internet am I known as either Perl or perl_2126. My tag on Discord is [Pe
 - 🌱 I’m currently learning C/C++
 - 📝 I’m coding with Python,HTML,CSS!
 
-I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python. My most popular/well known project so far is [\ParrotBot\][waysetsite], a Discord Bot that reached over 35 Servers (And still counting).
+I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python. My most popular/well known project so far is [\*ParrotBot\*][waysetsite], a Discord Bot that reached over 35 Servers (And still counting).
 
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
