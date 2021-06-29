@@ -29,8 +29,8 @@ Below this Readme can you find a list of Projects that I believe are my most pop
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
 <img src="https://github.com/Wayset/Wayset/blob/main/6578439.png">
-
-
+## 👀 My stats
+<img align="left" alt="Perl's GitHub Stats" src="https://github-readme-stats.wayset.vercel.app/api?username=Wayset&show_icons=true&hide_border=true" />
 
 ## 🔗 Links
 - [waysetsite]
