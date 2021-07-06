@@ -28,7 +28,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 Below this Readme can you find a list of Projects that I believe are my most popular ones (Or those you might be most interested in).  
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
-<img src="https://github.com/Wayset/Wayset/blob/main/6578439.png">
+<img src="https://github.com/Wayset/Wayset/blob/main/BIG SUR DAY 2.png">
 
 
 ## 🔗 Links
