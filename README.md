@@ -1,5 +1,5 @@
 <!-- Links -->
-[perl]: https://github.com/Wayset
+[github]: https://github.com/Wayset
 [waysetsite]: https://wayset.github.io
 [discord]: https://discord.gg/JCAdZjZk4p
 
@@ -27,8 +27,3 @@ Below this Readme can you find a list of Projects that I believe are my most pop
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
 <img src="https://github.com/Wayset/Wayset/blob/main/BIG SUR DAY 2.png">
-
-
-## 🔗 Links
-- [waysetsite]
-- [perl]
