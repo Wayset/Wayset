@@ -26,5 +26,4 @@ I'm a Hobby Developer who develops stuff in my free time (which is a lot right n
 Below this Readme can you find a list of Projects that I believe are my most popular ones (Or those you might be most interested in).  
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
-<img src="https://github.com/Wayset/Wayset/blob/main/BIG SUR DAY 2.png">
 [![Wayset.](https://github-readme-stats.vercel.app/api?username=Wayset&count_private=true)](https://github.com/Wayset/github-readme-stats)
