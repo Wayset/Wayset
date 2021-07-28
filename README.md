@@ -27,3 +27,4 @@ Below this Readme can you find a list of Projects that I believe are my most pop
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
 <img src="https://github.com/Wayset/Wayset/blob/main/BIG SUR DAY 2.png">
+[![Wayset.](https://github-readme-stats.vercel.app/api?username=Wayset&count_private=true)](https://github.com/Wayset/github-readme-stats)
