@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     Perl:
-    <b><a href="https://Wayset.github.io">Website</a></b>
+    <b><a href="https://wayset.github.io/perl/">Website</a></b>
 </samp><br>
 </p>
 
