@@ -26,4 +26,7 @@ I'm a Hobby Developer who develops stuff in my free time (which is a lot right n
 Below this Readme can you find a list of Projects that I believe are my most popular ones (Or those you might be most interested in).  
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
-[![Wayset.](https://github-readme-stats.vercel.app/api?username=Wayset&count_private=true)](https://github.com/Wayset/github-readme-stats)
+<!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=Wayset&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=Wayset&theme=gruvbox)
+![stats](https://github-readme-stats.vercel.app/api?username=Wayset&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayset&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
