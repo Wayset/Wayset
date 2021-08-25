@@ -8,7 +8,6 @@
   <samp>
     Perl:
     <b><a href="https://wayset.github.io/perl/">Website</a></b>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wayset&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
 </samp><br>
 </p>
 
@@ -22,6 +21,8 @@ On the internet am I known as either Perl or perl_ab.
 - 📝 I’m coding with Python,HTML,CSS!
 
 I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wayset&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
 
 ## 🛠️ Languages and Tools
 <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=GitKraken&color=179287&logo=gitkraken&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=GitLab&color=FCA121&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/static/v1?label=&message=Material-UI&color=0081CB&logo=material-ui&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Microsoft%20SQL%20Server&color=CC2927&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Notion&color=000000&logo=Notion&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=visual-studio-code&logoColor=white" />
