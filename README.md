@@ -42,4 +42,5 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 <!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=Wayset&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Wayset&theme=gruvbox) -->
 ![stats](https://github-readme-stats.vercel.app/api?username=Wayset&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayset&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wayset&show_icons=true" alt="Wayset" />
+username=Wayset&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
