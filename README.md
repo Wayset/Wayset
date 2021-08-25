@@ -8,6 +8,7 @@
   <samp>
     Perl:
     <b><a href="https://wayset.github.io/perl/">Website</a></b>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wayset&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
 </samp><br>
 </p>
 
