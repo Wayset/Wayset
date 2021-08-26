@@ -41,5 +41,4 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 
 <!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=Wayset&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Wayset&theme=gruvbox) -->
-![stats](https://github-readme-stats.vercel.app/api?username=Wayset&show_icons=true&theme=radical) 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wayset&show_icons=true" alt="Wayset" />
