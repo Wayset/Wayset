@@ -1,13 +1,13 @@
 <!-- Links -->
 [github]: https://github.com/Wayset
-[waysetsite]: https://wayset.github.io
+[waysetsite]: https://eternal-destroyer.github.io
 [discord]: https://discord.gg/JCAdZjZk4p
 
 
 <p align="center">
   <samp>
     Perl:
-    <b><a href="https://wayset.github.io/perl/">Website</a></b>
+    <b><a href="https://eternal-destroyer.github.io/perl/">Website</a></b>
 </samp><br>
 </p>
 
