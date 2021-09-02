@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     Perl:
-    <b><a href="https://eternal-destroyer.github.io/perl/">Website</a></b>
+    <b><a href="https://eternal-destroyers.github.io/perl/">Website</a></b>
 </samp><br>
 </p>
 
@@ -42,7 +42,7 @@ I'm a Hobby Developer who develops stuff in my free time (which is a lot right n
 Below this Readme can you find a list of Projects that I believe are my most popular ones (Or those you might be most interested in).  
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
-<!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=Eternal-Destroyer&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Eternal-Destroyer&theme=gruvbox) -->
-![stats](https://github-readme-stats.vercel.app/api?username=Eternal-Destroyer&show_icons=true&theme=radical)
+<!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=p4rl&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=p4rl&theme=gruvbox) -->
+![stats](https://github-readme-stats.vercel.app/api?username=p4rl&show_icons=true&theme=radical)
 
