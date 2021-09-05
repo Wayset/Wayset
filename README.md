@@ -26,9 +26,7 @@ On the internet am I known as either Perl or perl_ab.
 
 I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p4rl&label=Profile%20views&color=0e75b6&style=flat" alt="perl" /> </p>
-
-<a href="https://open.spotify.com/user/5u6nsklkdgrj0773bafjp5t1r?si=2e5fc567f40e486b">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=p4rl&label=Profile%20views&color=0e75b6&style=flat" alt="perl" /> </p> <a href="https://open.spotify.com/user/5u6nsklkdgrj0773bafjp5t1r?si=2e5fc567f40e486b">
   <img align="left" alt="Perl's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
