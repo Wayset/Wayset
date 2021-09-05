@@ -29,7 +29,6 @@ I'm a Hobby Developer who develops stuff in my free time (which is a lot right n
 <a href="https://open.spotify.com/user/5u6nsklkdgrj0773bafjp5t1r?si=2e5fc567f40e486b">
   <img align="left" alt="Perl's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p4rl&label=Profile%20views&color=0e75b6&style=flat" alt="perl" /> </p>
 
   <img align="right" alt="GIF" src="https://github.com/p4rl/p4rl/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -46,6 +45,8 @@ Python       6 d 3 h         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ## 📁 Projects
 Below this Readme can you find a list of Projects that I believe are my most popular ones (Or those you might be most interested in).  
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
+
+  <img align="center" alt="PNG" src="https://github.com/p4rl/p4rl/blob/main/banner%20git.png?raw=true" width="500" height="320" />
 
 <!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=p4rl&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=p4rl&theme=gruvbox) -->
