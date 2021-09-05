@@ -13,9 +13,6 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=%20Perl&fontSize=90&animation=twinkling) -->
 
-<a href="https://t.me/EternalDestroyers">
-  <img align="left" alt="Perl's Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
-</a>
 <a href="https://open.spotify.com/user/5u6nsklkdgrj0773bafjp5t1r?si=2e5fc567f40e486b">
   <img align="left" alt="Perl's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
