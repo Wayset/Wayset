@@ -46,7 +46,7 @@ Python       6 d 3 h         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 Below this Readme can you find a list of Projects that I believe are my most popular ones (Or those you might be most interested in).  
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
-  <img align="center" alt="PNG" src="https://github.com/p4rl/p4rl/blob/main/banner%20git.png?raw=true"/>
+ <p align="center"> <img src="https://github.com/p4rl/p4rl/blob/main/banner%20git.png?raw=true" alt="p4rl banner" />
 
 <!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=p4rl&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=p4rl&theme=gruvbox) -->
