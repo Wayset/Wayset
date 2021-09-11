@@ -18,6 +18,8 @@
 My name is Perl Abraham but most people just call me Perl.  
 On the internet am I known as either Perl or perl_ab.
 
+ My main job is to distribute open source and help people feel safe.
+
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C/C++ .
 - 📝 I’m coding with Python,HTML,CSS!
