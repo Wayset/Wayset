@@ -25,11 +25,11 @@ On the internet am I known as either Perl or perl_ab.
 - 📝 I’m coding with Python,HTML,CSS!
 - 🔭 I’m currently working on Eternal Destroyers.
 
+I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python.
+
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact"><img alt="Perl Abraham Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact" /></a>
 </p>
-
-I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python.
 
 <a href="https://open.spotify.com/user/5u6nsklkdgrj0773bafjp5t1r?si=2e5fc567f40e486b">
   <img align="left" alt="Perl's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
