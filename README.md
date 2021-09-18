@@ -47,8 +47,8 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 <!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=p4rl&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=p4rl&theme=gruvbox) -->
 <h2>🔥 Streak Stats</h2>
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=p4rl&theme=gotham" alt="p4rl" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=p4rl&show_icons=true&theme=gotham" alt="p4rl" />
+<p align="right"> <img src="http://github-readme-streak-stats.herokuapp.com?user=p4rl&theme=gotham" alt="p4rl" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=p4rl&show_icons=true&theme=gotham" alt="p4rl" />
 
 <h2>📊 Stats</h2>
 
