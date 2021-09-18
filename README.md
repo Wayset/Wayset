@@ -27,10 +27,6 @@ On the internet am I known as either Perl or perl_ab.
 
 I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python.
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact"><img alt="Perl Abraham Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact" /></a>
-</p>
-
 <a href="https://open.spotify.com/user/5u6nsklkdgrj0773bafjp5t1r?si=2e5fc567f40e486b">
   <img align="left" alt="Perl's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
@@ -52,6 +48,9 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 <h2>🔥 Streak Stats</h2>
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=p4rl&theme=gotham" alt="p4rl" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=p4rl&show_icons=true&theme=gotham" alt="p4rl" />
+ <p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact"><img alt="Perl Abraham Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact" /></a>
+</p>
 
 <h2>📊 Stats</h2>
 
