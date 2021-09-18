@@ -24,7 +24,10 @@ On the internet am I known as either Perl or perl_ab.
 - 🌱 I’m currently learning C/C++ .
 - 📝 I’m coding with Python,HTML,CSS!
 - 🔭 I’m currently working on Eternal Destroyers.
-- 📫 How to reach me: Telegram.
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact"><img alt="Perl Abraham Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact" /></a>
+</p>
 
 I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python.
 
