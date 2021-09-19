@@ -41,6 +41,8 @@ I'm a Hobby Developer who develops stuff in my free time (which is a lot right n
 Below this Readme can you find a list of Projects that I believe are my most popular ones (Or those you might be most interested in).  
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NHv2Nvm9Pp)
+
 <!--  <p align="center"> <img src="https://github.com/p4rl/p4rl/blob/main/banner%20git.png?raw=true" alt="p4rl banner" /> -->
 
 <!-- [![Wayset.](https://github-readme-stats.vercel.app/api?username=p4rl&count_private=true)](https://github.com/Wayset/github-readme-stats) -->
