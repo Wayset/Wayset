@@ -23,7 +23,7 @@ On the internet am I known as either Perl or perl_ab.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C/C++ .
 - 📝 I’m coding with Python,HTML,CSS!
-- 🔭 I’m currently working on Eternal Destroyers.
+- 🔭 I’m currently working on Wayset Community.
 
 I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python.
 
