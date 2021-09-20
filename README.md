@@ -54,8 +54,3 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact"><img alt="Perl Abraham Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4rl&theme=gotham&langs_count=6&layout=compact" /></a>
 </p>
 
-<h2>📊 Stats</h2>
-
-<p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=p4rl&theme=gotham&hide_border=true" /></a>
-</p>
