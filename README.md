@@ -1,5 +1,5 @@
 <!-- Links -->
-[github]: https://github.com/p4rl
+[github]: https://github.com/CoreCode
 [waysetsite]: https://eternal-destroyers.github.io
 [discord]: https://discord.gg/JCAdZjZk4p
 
