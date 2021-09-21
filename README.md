@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     Perl:
-    <b><a href="https://eternal-destroyers.github.io/perl/">Website</a></b>
+    <b><a href="https://corecode-team.github.io/perl/">Website</a></b>
 </samp><br>
 </p>
 
